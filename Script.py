@@ -42,7 +42,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="http://t.me/Ott_Sandhu_Owner_bot">ᴘʏʀᴏғᴏʀᴋ</a>
+😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="http://t.me/raj_dev_01">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : Oᴛᴛ Sᴀɴᴅʜᴜ
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/raj_dev_01">Sᴀɴᴅʜᴜ</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="http://t.me/raj_dev_01">ʟɪɴᴋ</a>

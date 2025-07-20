@@ -18,11 +18,11 @@ API_HASH = environ.get('API_HASH', '91c88b554ab2a34f8b0c72228f06fc0b')
 BOT_TOKEN = environ.get('BOT_TOKEN', '')
 
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5804953849').split()]
-USERNAME = environ.get('USERNAME', "https://telegram.me/Baii_Ji")
+USERNAME = environ.get('USERNAME', "https://telegram.me/raj_dev_01")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002350618294'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+u4cmm3JmIrFlNzZl')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002795064458').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://harikrishnaakkireddi1:AeeBOzCUextQBCaa@cluster0.8w1om.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://abhishekkumar040440:abhishek0440@cluster0.iuuk7rt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DATABASE_NAME = environ.get('DATABASE_NAME', "Rajdev")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'rajmovie')

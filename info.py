@@ -13,29 +13,29 @@ def is_enabled(value, default):
         return default
 
 #main variables
-API_ID = int(environ.get('API_ID', '29882686'))
-API_HASH = environ.get('API_HASH', 'b642a25aee67b2aed02116df4a916bca')
+API_ID = int(environ.get('API_ID', '27084955'))
+API_HASH = environ.get('API_HASH', '91c88b554ab2a34f8b0c72228f06fc0b')
 BOT_TOKEN = environ.get('BOT_TOKEN', '')
 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6316008361 6157414954 6796307271').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5804953849').split()]
 USERNAME = environ.get('USERNAME', "https://telegram.me/Baii_Ji")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002122152204'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+xid7xzHRfucyMjc1')
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002487267521').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Sandhu:Sandhu@mrtamilkid.m9cuk.mongodb.net/?retryWrites=true&w=majority&appName=MrTamilKiD")
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+u4cmm3JmIrFlNzZl')
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002323290412').split()]
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://devraj93957:ADKaEq5wfLzGy3JS@cluster0.bhhirpv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-DATABASE_NAME = environ.get('DATABASE_NAME', "Sandhu")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Akmovie')
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002122152204'))
+DATABASE_NAME = environ.get('DATABASE_NAME', "Rajdev")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'rajmovie')
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002350618294'))
 QR_CODE = environ.get('QR_CODE', 'https://envs.sh/8Hn.jpg')
 START_IMG = environ.get('START_IMG', 'https://envs.sh/fHy.jpg')
-BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1002370487322'))
-DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002370487322'))
+BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1002072084537'))
+DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002001775031'))
 URL = environ.get('URL', 'mytestbot-jvdfhbj.com')
 STICKERS_IDS = ('CAACAgQAAxkBAAEK99dlfC7LDqnuwtGRkIoacot_dGC4zQACbg8AAuHqsVDaMQeY6CcRojME').split()
 FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '600'))
 IS_VERIFY = is_enabled('IS_VERIFY', False)
-LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002122152204'))
+LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002323290412'))
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/+dVRLYHXJztJlMmY9")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "beee7ca2a1a57594f173b6c0153bed7f38a55434")
@@ -49,17 +49,17 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "86400"))
 
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
 QUALITIES = ["HdRip","web-dl" ,"bluray", "hdr", "fhd" , "240p", "360p", "480p", "540p", "720p", "960p", "1080p", "1440p", "2K", "2160p", "4k", "5K", "8K"]
-YEARS = [f'{i}' for i in range(2024 , 2002,-1 )]
+YEARS = [f'{i}' for i in range(2025 , 2002,-1 )]
 SEASONS = [f'season {i}'for i in range (1 , 23)]
 REF_PREMIUM = 30
 PREMIUM_POINT = 1500
 auth_channel = environ.get('AUTH_CHANNEL', '-1002429510787')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002431912132'))
-request_channel = environ.get('REQUEST_CHANNEL', '-1002122152204')
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002255543570'))
+request_channel = environ.get('REQUEST_CHANNEL', '-1002390669882')
 REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(request_channel) else None
-UPI_PAY_LOGS = int(environ.get('UPI_PAY_LOGS', '-1002122152204'))
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002116325676'))
+UPI_PAY_LOGS = int(environ.get('UPI_PAY_LOGS', '-1002465960701'))
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002441285313'))
 
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
 PORT = os.environ.get('PORT', '5000')

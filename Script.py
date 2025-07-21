@@ -46,6 +46,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href="http://t.me/raj_dev_01">RAJ DEV</a>
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/raj_dev_01">raj</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="http://t.me/raj_dev_01">ʟɪɴᴋ</a>
+ 📸INSTA : <a href="https://www.instagram.com/itz_dminem_official43?igsh=MTZpNGMwOGwwMWl5dA==">dminem</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 

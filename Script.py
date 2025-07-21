@@ -43,7 +43,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="http://t.me/raj_dev_01">ᴘʏʀᴏғᴏʀᴋ</a>
-🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : mr_raj
+🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href="http://t.me/raj_dev_01">RAJ DEV</a>
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/raj_dev_01">raj</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="http://t.me/raj_dev_01">ʟɪɴᴋ</a>
 </b>"""

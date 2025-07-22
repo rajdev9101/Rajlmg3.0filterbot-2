@@ -40,12 +40,12 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
     
 🤖 ɪ'ᴍ <a href=https://telegram.me/raj_dev_01/{}</a> 
 ⚙️ Hosting Platform : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
-🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
+🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">Database</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="http://t.me/raj_dev_01">ᴘʏʀᴏғᴏʀᴋ</a>
+😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="http://t.me/raj_dev_01">Profile</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href="http://t.me/raj_dev_01">RAJ DEV</a>
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/raj_dev_01">raj</a>
-🧑🏻‍💻 connect: <a href="http://t.me/raj_dev_01">help 👈 message me</a>
+🧑🏻‍💻 connect: <a href="http://t.me/raj_dev_01">Help me</a>
 📸  INSTA : <a href="https://www.instagram.com/itz_dminem_official43?igsh=...">itz_dminem_official43</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}

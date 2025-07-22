@@ -39,14 +39,14 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
     ABOUT_TEXT = """<b>🎭 ꜱᴀᴛ ꜱʀɪ ᴀᴋᴀʟ ᴊɪ {},
     
 🤖 ɪ'ᴍ <a href=https://telegram.me/raj_dev_01/{}</a> 
-⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
+⚙️ Hosting Platform : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="http://t.me/raj_dev_01">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href="http://t.me/raj_dev_01">RAJ DEV</a>
 🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/raj_dev_01">raj</a>
-🧑🏻‍💻 ʀᴇᴘᴏ : <a href="http://t.me/raj_dev_01">ʟɪɴᴋ</a>
- 📸INSTA : <a href="https://www.instagram.com/itz_dminem_official43?igsh=...">itz_dminem_official43</a>
+🧑🏻‍💻 connect: <a href="http://t.me/raj_dev_01">help 👈 message me</a>
+📸  INSTA : <a href="https://www.instagram.com/itz_dminem_official43?igsh=...">itz_dminem_official43</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 

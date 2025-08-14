@@ -27,7 +27,7 @@ DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://abhishekkumar040440:ab
 DATABASE_NAME = environ.get('DATABASE_NAME', "Rajdev")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'rajmovie')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002746487551'))
-QR_CODE = environ.get('QR_CODE', 'https://envs.sh/2wd.jpg')
+QR_CODE = environ.get('QR_CODE', 'https://envs.sh/2wo.jpg')
 START_IMG = environ.get('START_IMG', 'https://envs.sh/2Pz.jpg')
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1002691173535'))
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002723743584'))
@@ -98,4 +98,5 @@ DEFAULT_POST_MODE = {
     'singel_post_mode' : False,
     'all_files_post_mode' : False
 }
+
 

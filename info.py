@@ -20,7 +20,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '')
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5804953849').split()]
 USERNAME = environ.get('USERNAME', "https://telegram.me/raj_dev_01")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002350618294'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+u4cmm3JmIrFlNzZl')
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/freemovies2025_1')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002795064458').split()]
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://abhishekkumar040440:abhishek0440@cluster0.iuuk7rt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -61,15 +61,15 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 UPI_PAY_LOGS = int(environ.get('UPI_PAY_LOGS', '-1002870973266'))
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002465960701'))
 
-AUTO_FILTER = is_enabled('AUTO_FILTER', True)
+AUTO_FILTER = is_enabled('AUTO_FILTER', False)
 PORT = os.environ.get('PORT', '5000')
-MAX_BTN = int(environ.get('MAX_BTN', '8'))
+MAX_BTN = int(environ.get('MAX_BTN', '5'))
 AUTO_DELETE = is_enabled('AUTO_DELETE', True)
-DELETE_TIME = int(environ.get('DELETE_TIME', 300))
+DELETE_TIME = int(environ.get('DELETE_TIME', 800))
 IMDB = is_enabled('IMDB', False)
 FILE_CAPTION = environ.get('FILE_CAPTION', f'{script.FILE_CAPTION}')
 IMDB_TEMPLATE = environ.get('IMDB_TEMPLATE', f'{script.IMDB_TEMPLATE_TXT}')
-LONG_IMDB_DESCRIPTION = is_enabled('LONG_IMDB_DESCRIPTION', False)
+LONG_IMDB_DESCRIPTION = is_enabled('LONG_IMDB_DESCRIPTION', True)
 PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', False)
 SPELL_CHECK = is_enabled('SPELL_CHECK', True)
 LINK_MODE = is_enabled('LINK_MODE', True)
@@ -98,5 +98,6 @@ DEFAULT_POST_MODE = {
     'singel_post_mode' : False,
     'all_files_post_mode' : False
 }
+
 
 
